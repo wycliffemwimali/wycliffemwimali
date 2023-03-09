@@ -1,10 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/nEQe5dDpke8DRD7rBk/giphy.gif" width="200"/>
 </div>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="200"/>
-</div>
 <img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
