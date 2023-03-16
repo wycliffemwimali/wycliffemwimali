@@ -31,7 +31,7 @@ My name is <b>WYCLIFFE MWIMALI</b>, I am a Full Stack Developer <img src="https:
   <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" title="Android" alt="Android " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-wordmark.svg" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
