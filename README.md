@@ -15,7 +15,7 @@ My name is <b>WYCLIFFE MWIMALI</b>, I am a Full Stack Developer <img src="https:
 - :zap: In my free time, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms..
 
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/wycliffe-mwimali-46b076225/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedIn Badge"/>
   </a>
 
 
