@@ -46,6 +46,10 @@ My name is <b>WYCLIFFE MWIMALI</b>, I am a Full Stack Developer <img src="https:
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wycliffemwimali&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+  <a href="https://github.com/Cli4d/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cli4d&layout=compact" />
+</a>
 
 
 
